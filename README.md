@@ -9,6 +9,6 @@ BackEnd developer that loves making gaming related tools
 - Java
 
 ## Projects to-do list:
-- [ ] Open source Ark Survival Ascended EOS
+- [ ] Open source Ark Survival Ascended server watcher ( WIP )
 - [ ] Discord Market Bot
 - [ ] Tribe Helper Bot
